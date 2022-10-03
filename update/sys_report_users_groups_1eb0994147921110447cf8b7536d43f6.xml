@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Active Needit Requests by Type">96b0994147921110447cf8b7536d43f6</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>gdickerson</sys_created_by>
+        <sys_created_on>2022-09-30 20:42:06</sys_created_on>
+        <sys_id>1eb0994147921110447cf8b7536d43f6</sys_id>
+        <sys_name>96b0994147921110447cf8b7536d43f6</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_report_users_groups_1eb0994147921110447cf8b7536d43f6</sys_update_name>
+        <user_id display_value="Glenn Dickerson">37cf16b947311110447cf8b7536d43b4</user_id>
+    </sys_report_users_groups>
+</record_update>
